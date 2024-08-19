@@ -1,4 +1,4 @@
-# Find the factorial of a given number using loop.
+# WAP to Find the factorial of a given number using loop.
 
 # Solution:
 n = int(input("Enter a number: "))
