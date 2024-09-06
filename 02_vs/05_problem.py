@@ -8,5 +8,3 @@ price = float(input("Enter price of product: "))
 discount = float(input("Enter discount percentage: "))
 print("Price after discount: ", calculate_price(price, discount))
 
-
-
